@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Your Name - Personal Website</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #fff;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
+
+    header {
+      background-color: navy;
+      color: white;
+      text-align: center;
+      padding: 1em;
+    }
+
+    section {
+      max-width: 800px;
+      margin: 2em auto;
+      padding: 0 1em;
+    }
+
+    h2 {
+      color: navy;
+    }
+
+    .art-section {
+      color: navy;
+    }
+
+    .edu-section {
+      color: navy;
+    }
+
+    footer {
+      background-color: navy;
+      color: white;
+      text-align: center;
+      padding: 1em 0;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>Your Name</h1>
+    <p>Artist, Electronics Engineer, Educator</p>
+  </header>
+
+  <section class="art-section">
+    <h2>Artistic Journey</h2>
+    <p>Explore my artistic creations and expressions...</p>
+    <!-- Add your artistic content here -->
+  </section>
+
+  <section class="edu-section">
+    <h2>Educational Background</h2>
+    <p>Degree in Arts | Diploma in Electronics Engineering | B.Ed.</p>
+    <!-- Add details about your education here -->
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Your Name | Designed with ❤️</p>
+  </footer>
+</body>
+
+</html>
